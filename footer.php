@@ -29,7 +29,7 @@
 
 <body>
     <div class="footer">
-        <p>© copyright 2022 <span>Sumit's</span> Hotel | All rights reserved</p>
+        <p>© copyright 2022 <span>Cafe</span> Website | All rights reserved</p>
     </div>
 
 </body>
