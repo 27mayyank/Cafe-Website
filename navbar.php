@@ -25,7 +25,7 @@ echo'
     <div class="parent">
     <nav>
         <ul class="navbar">
-            <li class="logo"><a href="Home.php"><span>Sumit‘s</span> Hotel</a></li>
+            <li class="logo"><a href="Home.php"><span>Cafe</span> Website</a></li>
             <li class="item"><a href="Menu.php">Menu</a></li>
             <li class=" item has-subnavbar">
                 <a tabindex="0">Booking</a>
